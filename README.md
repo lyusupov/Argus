@@ -1,4 +1,4 @@
 Argus
 =====
 
-"Dou it yourself" Proximity Warning Device
+"Do it yourself" Proximity Warning Device
