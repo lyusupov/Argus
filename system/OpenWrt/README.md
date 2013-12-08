@@ -10,4 +10,4 @@ USB-DRIVE   - pre-built binary image file(s) for USB drive.<br>
 Router's binary firmware files can be uploaded into these devices with assistance of a Web browser.<br>
 Follow the instructions provided by manufacturers of these routers.<br>
 
-USB drive's image file(s) can be written onto the USB-drive storage by means of WinImage utility.<br>
+USB drive's image file(s) can be written onto a USB-drive storage by means of WinImage utility.<br>
